@@ -1,0 +1,13 @@
+{
+  "name": "read-scores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^7.0.1"
+  }
+}

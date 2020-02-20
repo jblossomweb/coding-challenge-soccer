@@ -1,3 +1,12 @@
+## The Solution
+
+### Quick Start
+
+run the following:
+
+1. `yarn` / `npm install` to install dependencies.
+2. `yarn test` / `npm test` to run test suite.
+
 ## The Problem
 
 We want you to create a command-line application that reads a listing of game
